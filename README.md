@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5589d6&height=120&section=header"/>
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSuave)](https://github.com/VitorSuave/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5589d6&size=36&center=true&vCenter=true&width=1000&lines=Hello!+I'm+Vitor+Suave;I'm+20+years+old;I'm+from+São+Paulo,+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 &nbsp;
 
 <div align="center">
     <a href="https://github.com/VitorSuave">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=VitorSuave&repo=github-readme-stats"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorSuave&count_private=true&show_icons=true&title_color=5589d6&text_color=DEDEDE&icon_color=5589d6&bg_color=191919&border_radius=20&hide_border=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSuave&layout=compact&title_color=5589d6&text_color=DEDEDE&bg_color=191919&border_radius=20&langs_count=5&&hide_border=true"/>
     </a>
 </div>
